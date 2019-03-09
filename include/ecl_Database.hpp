@@ -1,5 +1,5 @@
-#ifndef __ECL_PROJ_CLASSIFIED_HPP__
-#define __ECL_PROJ_CLASSIFIED_HPP__
+#ifndef __ECL_DATABASE_HPP__
+#define __ECL_DATABASE_HPP__
 
 #include <vector>
 #include <string>
