@@ -61,7 +61,7 @@ namespace ecl {
 				this->Container.push_back(Temp);
 				WritingModifier++;
 			}
-			if (this->WritingModifier > this->DataPerLine) {
+			if (this->WritingModifier >= this->DataPerLine) {
 				WritingModifier = 0;
 				this->Container.push_back(Temp);
 			}
