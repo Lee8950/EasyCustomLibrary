@@ -14,9 +14,6 @@
     <ClInclude Include="..\..\include\ecl_complex.hpp">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\include\ecl_Database.hpp">
-      <Filter>include</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\include\ecl_date.hpp">
       <Filter>include</Filter>
     </ClInclude>
@@ -24,6 +21,15 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="..\..\include\ecl_tool.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\ecl_database.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\ecl.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\INCLUDINGRULES.hpp">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>
