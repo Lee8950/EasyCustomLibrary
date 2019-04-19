@@ -32,5 +32,8 @@
     <ClInclude Include="..\..\include\INCLUDINGRULES.hpp">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="ecl_list.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
