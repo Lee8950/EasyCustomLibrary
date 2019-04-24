@@ -119,10 +119,10 @@
     <ClInclude Include="..\..\include\ecl_complex.hpp" />
     <ClInclude Include="..\..\include\ecl_database.hpp" />
     <ClInclude Include="..\..\include\ecl_date.hpp" />
+    <ClInclude Include="..\..\include\ecl_list.hpp" />
     <ClInclude Include="..\..\include\ecl_std.hpp" />
     <ClInclude Include="..\..\include\ecl_tool.hpp" />
     <ClInclude Include="..\..\include\INCLUDINGRULES.hpp" />
-    <ClInclude Include="ecl_list.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

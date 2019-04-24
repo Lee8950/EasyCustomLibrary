@@ -32,7 +32,7 @@
     <ClInclude Include="..\..\include\INCLUDINGRULES.hpp">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="ecl_list.hpp">
+    <ClInclude Include="..\..\include\ecl_list.hpp">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>
